@@ -21,14 +21,14 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Sara, Ibarra, 32 | {firstName: Sara, lastName: Ibarra, age: 32}    | 
+| Trisha, Calhoun, 35| {firstName: Trisha, lastName: Calhoun, age: 34} | 
+| Abraham, Meza, 18| {firstName: Abraham, lastName: Meza, age: 18}    | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>It takes the key/value pairs for the person object and and returns the the key/values pairs when the object is called. </td>
   </tr>
 </table>
 
@@ -37,3 +37,4 @@ function (firstName, lastName, age){
 * Contains a plausible collection of test cases
 * Outputs are accurately derived from inputs
 * Summary is plausible
+
