@@ -28,7 +28,7 @@ function (firstName, lastName, age){
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td>It takes the key/value pairs for the person object and and returns the the key/values pairs when the function is called. </td>
+    <td>It takes the key/value pairs for the person object and returns the the key/values pairs when the function is called. </td>
   </tr>
 </table>
 
