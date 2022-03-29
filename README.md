@@ -21,9 +21,9 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-| Sara, Ibarra, 32 | {firstName: Sara, lastName: Ibarra, age: 32}    | 
-| Trisha, Calhoun, 35| {firstName: Trisha, lastName: Calhoun, age: 34} | 
-| Abraham, Meza, 18| {firstName: Abraham, lastName: Meza, age: 18}    | 
+| Sara, Ibarra, 32 | {firstName: 'Sara', lastName: 'Ibarra', age: 32}    | 
+| Trisha, Calhoun, 35| {firstName: 'Trisha', lastName: 'Calhoun', age: 34} | 
+| Abraham, Meza, 18| {firstName: 'Abraham', lastName: 'Meza', age: 18}    | 
 
 <table>
   <tr>
